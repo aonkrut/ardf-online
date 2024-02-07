@@ -24,7 +24,9 @@ omogućiti profilne slike
 slike s natjecanja (galerije)
 povezivanje s društvenim mrežama
 brendiranje, blog-iskustva, prezentacije itd....
+
 verzija 5.0
+spojiti sa ddbtrack za pracenje live natjecatelje
 poraditi na sigurnosti podataka, provjeriti SQL napade i ostalo
 ostati prijavljen pomoću kolačića 
 prijava prek google, appleID, itd
