@@ -1,0 +1,32 @@
+PLanovi dalje:
+
+verzija 2.0
+upload rezultata->preuzimanje rezultata
+upload dodatnog dokumenta kod kreiranja eventa/natjecnja
+
+postaviti stranicu ardf kako početi?
+popisa prijavljenih ->pdf
+dodjeljivanje startnih vremena, startne grupe
+
+dodati meta podatke
+
+verzija 3.0
+<a class="fw-normal" href="new_password.php">Zaboravljena lozinka?</a> 
+omogućiti reset lozinke
+slanje na mail potvrde, rezultate, diplome, pozivnice
+općenito izgled
+dva jezika pravilno raspoređena ne samo hrvatski mešani s engleskim
+omogućiti dodjeljivanje STNO-start broj i CARDNO-broj čipa
+
+verzija 4.0
+omogućiti prilagođene kategorije
+omogućiti profilne slike
+slike s natjecanja (galerije)
+povezivanje s društvenim mrežama
+brendiranje, blog-iskustva, prezentacije itd....
+verzija 5.0
+poraditi na sigurnosti podataka, provjeriti SQL napade i ostalo
+ostati prijavljen pomoću kolačića 
+prijava prek google, appleID, itd
+spajanje usera (ako admin kluba kreira račun za tebe pa kasnije ti pa hočeš imati podatke)
+rezultati (zbrajanje, analiza itdd...)
